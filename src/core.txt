@@ -1,2 +1,3 @@
 An introduction to the J programming language that gets to the point.
 # drop an unused branch
+# keep defaults in sync with the manifest
