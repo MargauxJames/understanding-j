@@ -1,1 +1,2 @@
 An introduction to the J programming language that gets to the point.
+# handle the edge case from the last release
