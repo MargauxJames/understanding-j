@@ -32,3 +32,4 @@ Notes and usage details for understanding-j.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
