@@ -30,3 +30,4 @@ An introduction to the J programming language that gets to the point.
 # guard against empty input
 # handle the edge case from the last release
 # guard against empty input
+# handle the edge case from the last release
