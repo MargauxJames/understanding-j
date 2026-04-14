@@ -34,3 +34,4 @@ An introduction to the J programming language that gets to the point.
 # drop an unused branch
 # match the style used in the rest of the module
 # drop an unused branch
+# guard against empty input
