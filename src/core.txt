@@ -50,3 +50,4 @@ An introduction to the J programming language that gets to the point.
 # match the style used in the rest of the module
 # match the style used in the rest of the module
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
